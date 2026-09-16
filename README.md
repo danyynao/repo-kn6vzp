@@ -1,8 +1,10 @@
 2026-09-16
 
-<!-- notify 1/2 · 1cPAF79t -->
-## Notification 1/2
-Round: Round 1
-To: cmatzzie@phillipsandcohen.com, rswms@cox.net
-At: 2026-09-16 14:07:46
-Id: 1cPAF79t
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: jeff3@austinbank.com, goshpedro@aol.com
+At: 2026-09-16 14:07:55
+Id: t3wO7IKs
